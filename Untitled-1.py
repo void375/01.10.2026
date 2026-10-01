@@ -11,3 +11,4 @@ def check_access(name, age):
     return message
 
 check_access("Алиса", 20)
+
