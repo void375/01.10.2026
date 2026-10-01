@@ -10,4 +10,3 @@ def check_access(name: str, age: int) -> str:
     return message
 
 check_access("Алиса", 20)
-
